@@ -1,0 +1,6 @@
+{
+    "domain":"ProPresenter",
+    "name":"ProPresenter",
+    "requirements": ["requests"],
+    "version":"0.1.0"
+}
