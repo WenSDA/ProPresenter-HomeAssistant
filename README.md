@@ -7,4 +7,8 @@ To install, put the ProPresenter folder into the custom_components folder. If th
 text:
   - platform: ProPresenter
     scan_interval: 0.2 # Number of seconds between each HTTP get request
+
+number:
+  - platform: ProPresenter
+    scan_interval: 0.2 # Number of seconds between each HTTP get request
 ```
